@@ -1,6 +1,6 @@
-## This is `FORHAD AHMED KHAN`
+## This is **FORHAD AHMED KHAN**
 
-I am an undergrad student, pursuing a bachelor's degree in Computer Science and Engineering. My plan is to start my career as a software engineer. 
+I am an ___undergrad___ student, pursuing a bachelor's degree in **Computer Science and Engineering**. My plan is to start my career as a software engineer. 
 
 
 ### Interested
